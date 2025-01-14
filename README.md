@@ -1,6 +1,8 @@
-# Hello, I am Nemozikr.
-- I am currently interested and working on **Web Development** 
-- How to reach me? Well... *Soon™*.
+# Hello, I am Nemozikr/Edward.
+
+I am currently interested and working on **Web Development** 
+
+How to reach me? Well either with Linkedin or __*Soon™*__.
 
 <!---
 Nemozikr/Nemozikr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
