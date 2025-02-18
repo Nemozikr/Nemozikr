@@ -1,6 +1,6 @@
 # Hello, I am Nemozikr/Edward.
 
-I am currently interested and working on **Web Development** 
+I am currently interested and working on **Full-Stack, Web, Game Development and Data Sciences.** 
 
 How to reach me? Well either with Linkedin or __*Soon™*__.
 
