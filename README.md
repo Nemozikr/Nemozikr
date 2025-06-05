@@ -1,8 +1,8 @@
 # Hello, I am Nemozikr/Edward.
 
-I am currently interested and working on **Full-Stack, Web, Game Development and Software Engineering.** 
+I am currently interested and working on **Full-Stack, Web and Software Engineering.** 
 
-How to reach me? Well either with Linkedin or my email.
+Reach me through my LinkedIn or Email.
 
 <!---
 Nemozikr/Nemozikr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
